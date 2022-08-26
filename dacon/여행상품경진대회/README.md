@@ -2,7 +2,7 @@
 1. 출처 : https://dacon.io/competitions/official/235959/codeshare/6041?page=1&dtype=recent
 2. 출처 : https://dacon.io/competitions/official/235959/codeshare/6136?page=1&dtype=recent
 
-# 느낀점
+# 1번에서 느낀점
 1. pycaret을 통해서 처음으로 auto ml을 접하게 되었다.
 
   자동으로 모델을 선정하는 것이 매우 인상적이었다. 
