@@ -16,3 +16,5 @@
 3. 인코딩과 스케일링
 
 4. 1.번 평가함수 다시 
+
+5. agglomerative Hierarchical Clustering 공부
