@@ -1,6 +1,7 @@
 # 분석
 1. 출처 : https://dacon.io/competitions/official/235959/codeshare/6041?page=1&dtype=recent
-2. 출처 : https://dacon.io/competitions/official/235959/codeshare/6136?page=1&dtype=recent
+
+레퍼런스 1. 출처 : https://dacon.io/competitions/official/235959/codeshare/6507?page=1&dtype=recent
 
 # 1번에서 느낀점(8/24~8/26)
 1. pycaret을 통해서 처음으로 auto ml을 접하게 되었다.
