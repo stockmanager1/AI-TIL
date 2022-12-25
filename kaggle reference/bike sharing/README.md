@@ -6,6 +6,10 @@
 ![image](https://user-images.githubusercontent.com/95357946/209459142-6a556008-9bda-43b3-82d6-25738418aa6c.png)
 이 타겟값을 보면 0으로 몰려 있는 분포를 알 수 있다. 머신러닝에서 타겟값의 분포가 정규분포에 가까워 질 수록 더 정확도가 올라간다. 하지만 마지막에 submission파일을 다시 지수로 변경해야 한다.
 
+지수 count
+![image](https://user-images.githubusercontent.com/95357946/209459223-a34ed0e9-a5a9-4444-999b-359c798236c3.png)
+
+
 3. 박스플롯이 단순히 이상치만 볼 줄 알았는데, 범주형 데이터에 대한 수치형 데이터의 그래프를 볼 수 있다. 
 
 4. point플롯은 시간대별 변수를 보기가 정말 편하다.
